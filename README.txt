@@ -1,8 +1,8 @@
 Node Practices
 
 1.  패키지(package)
-    - 완전한 애플리케이션(nodedeamon, bable, webpack)
-    - 프로젝트에서 사용하는 모듈(라이브러리)
+    -   완전한 애플리케이션(nodedeamon, bable, webpack)
+    -   프로젝트에서 사용하는 모듈(라이브러리)
 
 2.  의존성(Dependency)
     -   개발하는 프로젝트(애플리케이션, 패키지)에서 설치하고 사용하는 패키지
